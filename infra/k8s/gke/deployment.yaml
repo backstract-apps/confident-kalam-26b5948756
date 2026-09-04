@@ -22,7 +22,7 @@ metadata:
     app: confident-kalam-26b5948756
     release: prometheus
 spec:
-  replicas: 1
+  replicas: 0
   selector:
     matchLabels:
       app: confident-kalam-26b5948756
